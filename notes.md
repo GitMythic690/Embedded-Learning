@@ -1,6 +1,8 @@
 # Learning Notes
 
 ## Week 1 — C Fundamentals
+### 29 jul
+- simploop file updated to include  while loop checker 
 ### 25 Jul
 - Created agree file; code asks user to input a y or Y if they agree and prints out agreed otherwise any other input will result in not agreed.
 - Created a simple loop program called simploop, to show case a basic while loop with a condition.

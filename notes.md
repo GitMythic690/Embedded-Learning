@@ -1,6 +1,10 @@
 # Learning Notes
 
 ## Week 1 — C Fundamentals
+### 9 Aug
+- STM32 toochain set up, blink_ld2 project generated, code added - waiting on Mini-B cable to flash
+### 8 Aug
+-completed nested loop mario pyramid code using nested for loops.
 ### 29 jul
 - simploop file updated to include  while loop checker 
 - finished lecture 1

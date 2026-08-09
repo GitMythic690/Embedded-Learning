@@ -2,6 +2,8 @@
 
 ## Week 1 — C Fundamentals
 ### 9 Aug
+- retouched on ohms ;aw, LED resistor sizing, series/parallel and voltage dividers using online simulation circuits and working out values in notebook
+### 9 Aug
 - STM32 toochain set up, blink_ld2 project generated, code added - waiting on Mini-B cable to flash
 ### 8 Aug
 -completed nested loop mario pyramid code using nested for loops.

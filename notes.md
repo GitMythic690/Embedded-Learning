@@ -1,6 +1,8 @@
 # Learning Notes
 
 ## Week 1 — C Fundamentals
+### 11 Aug
+- retouched on GPIO pins electrically, sourcing/sinking and pull up and pull down resistors
 ### 9 Aug
 - retouched on ohms ;aw, LED resistor sizing, series/parallel and voltage dividers using online simulation circuits and working out values in notebook
 ### 9 Aug

@@ -4,6 +4,7 @@
 ### 13 Aug
 - looked into what the two lines of code in the stmIDE that make a LED on the board blink actually do, looked at it in stmMX and worked to understand GPIO output config
 - Ran blink project on hardware succesfully 
+- NExt step onboard USER button (B1/PC13) - first input, internal pull-up, no wiring needed -> read button, light LED when pressed
 ### 11 Aug
 - retouched on GPIO pins electrically, sourcing/sinking and pull up and pull down resistors
 ### 9 Aug

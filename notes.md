@@ -3,6 +3,7 @@
 ## Week 1 — C Fundamentals
 ### 13 Aug
 - looked into what the two lines of code in the stmIDE that make a LED on the board blink actually do, looked at it in stmMX and worked to understand GPIO output config
+- Ran blink project on hardware succesfully 
 ### 11 Aug
 - retouched on GPIO pins electrically, sourcing/sinking and pull up and pull down resistors
 ### 9 Aug
@@ -10,7 +11,7 @@
 ### 9 Aug
 - STM32 toochain set up, blink_ld2 project generated, code added - waiting on Mini-B cable to flash
 ### 8 Aug
--completed nested loop mario pyramid code using nested for loops.
+- completed nested loop mario pyramid code using nested for loops.
 ### 29 jul
 - simploop file updated to include  while loop checker 
 - finished lecture 1

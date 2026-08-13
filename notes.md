@@ -1,6 +1,8 @@
 # Learning Notes
 
 ## Week 1 — C Fundamentals
+### 13 Aug
+- looked into what the two lines of code in the stmIDE that make a LED on the board blink actually do, looked at it in stmMX and worked to understand GPIO output config
 ### 11 Aug
 - retouched on GPIO pins electrically, sourcing/sinking and pull up and pull down resistors
 ### 9 Aug

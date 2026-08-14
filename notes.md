@@ -1,6 +1,8 @@
 # Learning Notes
 
 ## Week 1 — C Fundamentals
+### 14 Aug
+- wrote and ran a simple button press-LED on code by reasoning the active low logic from the pull-up wiring, therefore reading and writing correctly to explicit pins
 ### 13 Aug
 - looked into what the two lines of code in the stmIDE that make a LED on the board blink actually do, looked at it in stmMX and worked to understand GPIO output config
 - Ran blink project on hardware succesfully 

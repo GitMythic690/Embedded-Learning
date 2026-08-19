@@ -1,6 +1,8 @@
 # Learning Notes
 
 ## Week 1 — C Fundamentals
+### 19 Aug
+- changed thwe simple button press-LED on code to an edge detection with state tracking so when the button is pressed the LED stays on and turns off when pressed again
 ### 14 Aug
 - wrote and ran a simple button press-LED on code by reasoning the active low logic from the pull-up wiring, therefore reading and writing correctly to explicit pins
 ### 13 Aug

@@ -8,6 +8,7 @@
 3. Signal processing theory — sampling, filtering, noise.
 4. Then into I2C/SPI protocols, now backed by both the bitwise skills and the theory.
 - Ran UART code - worked, hello world was sent to PuTTY terminal. had to use explicit Run As -> STM32 C/C++ application. \r\n needed for real terminals and strlen needed for number of characters in string as no UART doesn't scan for null terminal.
+- Ordered MPU-6050 acceleromteter/gyroscope module.
 ### 19 Aug
 - changed thwe simple button press-LED on code to an edge detection with state tracking so when the button is pressed the LED stays on and turns off when pressed again
 ### 14 Aug

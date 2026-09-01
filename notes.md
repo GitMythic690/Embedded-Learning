@@ -1,6 +1,12 @@
 # Learning Notes
 
 ## Week 1 — C Fundamentals
+### 01 Sep
+- plan for next sessions; 
+1. UART — next session. Sending serial data from the NUCLEO to my PC, gateway to printf-style debugging.
+2. C intermediate — bitwise operators (the big one for register-level work), structs, multi-file projects.
+3. Signal processing theory — sampling, filtering, noise.
+4. Then into I2C/SPI protocols, now backed by both the bitwise skills and the theory.
 ### 19 Aug
 - changed thwe simple button press-LED on code to an edge detection with state tracking so when the button is pressed the LED stays on and turns off when pressed again
 ### 14 Aug

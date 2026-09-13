@@ -1,6 +1,8 @@
 # Learning Notes
 
 ## Week 1 — C Fundamentals
+### 13 Sep
+- completed bitwise operators (AND/OR/XOR/shifts, set/clear/toggle/check bit patterns) and structs - connected to HAL GPIO_InitStruct
 ### 01 Sep
 - plan for next sessions; 
 1. UART — next session. Sending serial data from the NUCLEO to my PC, gateway to printf-style debugging.(completed)

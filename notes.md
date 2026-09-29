@@ -1,6 +1,9 @@
 # Learning Notes
 
 ## Week 1 — C Fundamentals
+### 29 Sep
+- declarations live  inside main, outside the loop at USER CODE BEGIN 2.
+- sprintf used to take characters and store them in an array
 ### 13 Sep
 - completed bitwise operators (AND/OR/XOR/shifts, set/clear/toggle/check bit patterns) and structs - connected to HAL GPIO_InitStruct
 ### 01 Sep

@@ -1,6 +1,8 @@
 # Learning Notes
 
 ## Week 1 — C Fundamentals
+### 30 Sep
+- UART live button state code created - transmits pressed on button press and released continuously 
 ### 29 Sep
 - declarations live  inside main, outside the loop at USER CODE BEGIN 2.
 - sprintf used to take characters and store them in an array

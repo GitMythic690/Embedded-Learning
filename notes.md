@@ -1,6 +1,8 @@
 # Learning Notes
 
 ## Week 1 — C Fundamentals
+### 16 Oct
+- Generated data from the MPU-6050 live accelerometer over UART - X/Y/Z read via I2C, high/low bytes combined, tilt and flip verified 
 ### 05 Oct
 - I2C refresher - going over protocols, bus design and addressing. registers, read conversation and combining high/low bytes into one real value
 - Did my first actual wiring using a breadboard and the MPU-6050, compiled and ran a program that gave the register value of the sensor to prove my wiring was correct and caught a buffer overflow bug before i ran it on the board

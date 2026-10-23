@@ -1,6 +1,9 @@
 # Learning Notes
 
 ## Week 1 — C Fundamentals
+### 23 Oct
+- converted the raw readings from MPU-6050 to milli-g readings.
+- added a moving average filter on MPU-6050 Z axis to reduce stationary jitter(noise) from tens of mg to ~3 mg, 1s lag at N = 5
 ### 16 Oct
 - Generated data from the MPU-6050 live accelerometer over UART - X/Y/Z read via I2C, high/low bytes combined, tilt and flip verified 
 ### 05 Oct
